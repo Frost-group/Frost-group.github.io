@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: \"Sometimes I sit and teach, and sometimes I just sit\" 
+description: 'Sometimes I sit and teach, and sometimes I just sit' 
 nav: true
 ---
 
@@ -14,9 +14,9 @@ Before the fairly specific Python + PyTorch based delivery of content for the
 ML MRes described below, I was developing some more general scientific machine
 learning materials with Julia + Pluto notebooks.
 
-(https://jarvist.github.io/2021-PhysicsMachineLearningPracticum/02_GaussianProcessPotentialEnergySurface.html)
+<https://jarvist.github.io/2021-PhysicsMachineLearningPracticum/02_GaussianProcessPotentialEnergySurface.html>
 
-(https://jarvist.github.io/2021-PhysicsMachineLearningPracticum/04_IsingModel.html)
+<https://jarvist.github.io/2021-PhysicsMachineLearningPracticum/04_IsingModel.html>
 
 ## Computational solid state physics
 
@@ -25,7 +25,7 @@ various MRes and CDTs, I'm starting to put together a general introductory
 course to bridge the gap between undergraduate solid state physics / chemistry,
 and then a research student level of running electronic structure calculations. 
 
-(https://frost-group.github.io/ComputationalSolidStatePhysics/)
+<https://frost-group.github.io/ComputationalSolidStatePhysics/>
 
 ## 2021--2022
 
@@ -38,16 +38,23 @@ neural networks, and Ordinary Differential Equations nets.
 
 My project was on trying to infer parameters for chaotic ODEs.
 
-(https://github.com/jarvist/2021-PhysicsMachineLearningPracticum/tree/main/2021-PythonJupyter)
+<https://github.com/jarvist/2021-PhysicsMachineLearningPracticum/tree/main/2021-PythonJupyter>
 
 ### Solution processible electronics (MRes, Physics, Imperial)
 
 For this I taught a lectured component on solid-state theory & electronic structure.
 (Very high level overview!)
 
+A key concept was relating effective mass to band structures, the 2020 (Zoom,
+pre-recorded) derivations of which are available on YouTube:
+
+<https://youtu.be/XtvaDn9y1L4>
+
+<https://youtu.be/NlAKF_xhimk>
+
 I also ran a computational workshop using ASE and GPAW within Jupyter notebooks
 
-(https://github.com/Frost-group/2021-SEM-MRes-MaterialStructureAndDynamics-ComputationalWorkshop)
+<https://github.com/Frost-group/2021-SEM-MRes-MaterialStructureAndDynamics-ComputationalWorkshop>
 
 The aim of this workshop is to get some experience of running solid-state
 (periodic) electronic structure calculations. You should adapt the notebooks,
