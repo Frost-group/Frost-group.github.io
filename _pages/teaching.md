@@ -2,11 +2,11 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: "Sometimes I sit and teach, and sometimes I just sit" 
+description: \"Sometimes I sit and teach, and sometimes I just sit\" 
 nav: true
 ---
 
-## In development
+## In development...
 
 ### Physical machine learning
 
@@ -14,9 +14,9 @@ Before the fairly specific Python + PyTorch based delivery of content for the
 ML MRes described below, I was developing some more general scientific machine
 learning materials with Julia + Pluto notebooks.
 
-https://jarvist.github.io/2021-PhysicsMachineLearningPracticum/02_GaussianProcessPotentialEnergySurface.html
+(https://jarvist.github.io/2021-PhysicsMachineLearningPracticum/02_GaussianProcessPotentialEnergySurface.html)
 
-https://jarvist.github.io/2021-PhysicsMachineLearningPracticum/04_IsingModel.html
+(https://jarvist.github.io/2021-PhysicsMachineLearningPracticum/04_IsingModel.html)
 
 ## Computational solid state physics
 
@@ -25,7 +25,7 @@ various MRes and CDTs, I'm starting to put together a general introductory
 course to bridge the gap between undergraduate solid state physics / chemistry,
 and then a research student level of running electronic structure calculations. 
 
-https://frost-group.github.io/ComputationalSolidStatePhysics/
+(https://frost-group.github.io/ComputationalSolidStatePhysics/)
 
 ## 2021--2022
 
@@ -38,7 +38,7 @@ neural networks, and Ordinary Differential Equations nets.
 
 My project was on trying to infer parameters for chaotic ODEs.
 
-https://github.com/jarvist/2021-PhysicsMachineLearningPracticum/tree/main/2021-PythonJupyter
+(https://github.com/jarvist/2021-PhysicsMachineLearningPracticum/tree/main/2021-PythonJupyter)
 
 ### Solution processible electronics (MRes, Physics, Imperial)
 
@@ -47,7 +47,7 @@ For this I taught a lectured component on solid-state theory & electronic struct
 
 I also ran a computational workshop using ASE and GPAW within Jupyter notebooks
 
-https://github.com/Frost-group/2021-SEM-MRes-MaterialStructureAndDynamics-ComputationalWorkshop
+(https://github.com/Frost-group/2021-SEM-MRes-MaterialStructureAndDynamics-ComputationalWorkshop)
 
 The aim of this workshop is to get some experience of running solid-state
 (periodic) electronic structure calculations. You should adapt the notebooks,
@@ -68,7 +68,13 @@ wave (PAW) density functional theory on a real-space grid.
 
 I delivered a guest lecturer (over Zoom) for Girls Who Machine Learn
 (GirlsWhoML), organised by Imperial's Women in Physics and Women in Computing
-society. 
+society, and attended voluntarily by students from across the Imperial
+faculties. 
+
 I mainly used the provided materials, but added some of the content on the
-single neuron classifier from the above MRes. 
+single neuron classifier from the above MRes. I also added a couple of
+Mentimeter based quizzes for active learning. I can't share the materials as
+I don't own sole copyright, but I certainly recommend volunteering if you have
+the opportunity - it was very interesting and useful to try and deliver content
+to a different cohort. 
 
