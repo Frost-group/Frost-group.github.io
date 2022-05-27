@@ -2,10 +2,7 @@
 layout: page 
 permalink: /group/
 title: Frost group members 
-order: 4 
-
-news: false 
-social: false
+nav: true 
 ---
 
 # Current Frost group members
