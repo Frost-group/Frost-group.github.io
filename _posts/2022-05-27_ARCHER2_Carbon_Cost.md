@@ -4,6 +4,7 @@ date: 2022-05-27 07:59:00-0400
 title: Carbon cost of computing on ARCHER2
 description: Are hybrid functionals or flying to conferences worse for the climate crisis?
 tags: carbon computing ARCHER2
+comments: false
 ---
 
 With the new [ARCHER2](https://www.archer2.ac.uk/) national high performance
