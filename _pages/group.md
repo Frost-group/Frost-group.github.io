@@ -32,7 +32,7 @@ much larger systems to be treated.
 
 ## Hanbo Yang (PhD Oct 2020--)
 
-@@left ![Hanbo Yang, mugshot.](/img/hanbo.jpg) @@
+@@left ![Hanbo Yang, mugshot.](/assets/img/hanbo.jpg) @@
 
 Hanbo is working on molecular materials for the up-conversion of light. 
 By absorbing two lower energy photons (red), combining the energy and emitting
@@ -66,7 +66,7 @@ Hanbo's 3-minute video summary from September 2021:
 
 ## Bradley A.A. Martin (PhD Oct 2020--)
 
-@@left ![Bradley A.A. Martin.](/img/brad_250px.jpg) @@
+@@left ![Bradley A.A. Martin.](/assets/img/brad_250px.jpg) @@
 
 Brad comes from a theoretical physics background. His first project is in
 extending the Feynman variational path-integral approach to the polaron
@@ -103,7 +103,7 @@ The project which I'm working on with Nick is in using empirical molecular dynam
 
 ## Jarvist Moore Frost (PhD Imperial 2012)
 
-@@left ![Photo of Jarvist wearing a red jumper.](/img/JarvistMooreFrost_Feb2017_SonyA1_RedJumper_Square_250px.jpg) @@
+@@left ![Photo of Jarvist wearing a red jumper.](/assets/img/JarvistMooreFrost_Feb2017_SonyA1_RedJumper_Square_250px.jpg) @@
 
 Jarvist approached computational physics back to front, in that after being introduced to LOGO in the reception class of his primary school on a creaky old BBC Micro, he learnt a lot of his higher physics by reference to how it could be expressed on a computer. His MSci project (2005--2006) was under Prof. Geoff New on modelling 'fractal light' as generating in a highly magnifying laser cavity with a polygonal aperture; a [youtube video](https://www.youtube.com/watch?v=-dJPs1nPTjM) [Hi-Def, but without annotation](https://www.youtube.com/watch?v=AOYN9YmXaHo), working(ish) [code](https://github.com/jarvist/FractalLight) and [MSci report](https://arxiv.org/abs/physics/0612027) are available. 
 His PhD (2007--2012) was supervised by Prof. Jenny Nelson FRS and Prof. Donal Bradley FRS CBE, and supported by BP Solar and an EPSRC DTP award. 
