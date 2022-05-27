@@ -2,7 +2,8 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: 'Sometimes I sit and teach, and sometimes I just sit' 
+description: '\"Sometimes I sit and [teach], and sometimes I just sit\" ---
+Courtney Barnett' 
 nav: true
 ---
 

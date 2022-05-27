@@ -5,4 +5,4 @@ inline: true
 ---
 
 Start of the Frost group as JMF takes up a Royal Society University Research
-Fellowship at Imperial (URF-R1-191292) :sparkles: :smile:
+Fellowship at Imperial (URF-R1-191292) :sparkles:
