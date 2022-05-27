@@ -212,8 +212,8 @@ scholar:
   last_name: Frost
   first_name: [Jarvist, A.]
 
-  style: apa
-  locale: en
+  style: american-physics-society 
+  locale: en-GB
 
   source: /_bibliography/
   bibliography: papers.bib
