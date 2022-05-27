@@ -155,7 +155,6 @@ plugins:
   - jekyll-diagrams
   - jekyll-email-protect
   - jekyll-feed
-  - jekyll-github-metadata
   - jekyll-imagemagick
   - jekyll-paginate-v2
   - jekyll-sitemap
@@ -169,8 +168,6 @@ defaults:
       path: "assets/**/*.*"
     values:
       sitemap: false
-# Extras
-github: [metadata]
 
 # -----------------------------------------------------------------------------
 # Jekyll optimization
@@ -212,8 +209,8 @@ jekyll-archives:
 
 scholar:
 
-  last_name: Einstein
-  first_name: [Albert, A.]
+  last_name: Frost
+  first_name: [Jarvist, A.]
 
   style: apa
   locale: en
