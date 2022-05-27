@@ -1,10 +1,9 @@
 ---
 layout: post
-date: 2022-05-27 07:59:00-0400
+date: 2022-05-27 07:59:00+0000
 title: Carbon cost of computing on ARCHER2
 description: Are hybrid functionals or flying to conferences worse for the climate crisis?
-tags: carbon computing ARCHER2
-catergories: backofenvelope
+categories: backofenvelope
 comments: false
 ---
 
