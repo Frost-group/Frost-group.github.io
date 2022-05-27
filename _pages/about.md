@@ -6,7 +6,6 @@ subtitle: >
 And if your system has electrons  
 Yo, we'll solve it
 Check out our cluster while the GF resolves it
-
 profile:
   align: right
   image: prof_pic.jpg

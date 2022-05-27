@@ -1,6 +1,6 @@
 ---
 layout: page 
-permalink: /members/
+permalink: /group/
 title: Frost group members 
 order: 4 
 
