@@ -33,7 +33,7 @@ So our compute time was responsible for about 750 kg of CO2e emissions, roughly
 equivalent to a round trip flight to Boston to present the data at the Fall MRS
 conference. 
 
-I need to patch the `checkScript` command with the extra 1 CU = 0.15 kg CO2e
+I need to patch the *checkScript* command with the extra 1 CU = 0.15 kg CO2e
 metric!
 
 Any improved estimates or corrections gratefully received; this blog post is
