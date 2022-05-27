@@ -1,7 +1,7 @@
 ---
 layout: page 
 permalink: /group/
-title: Frost group members 
+title: group
 nav: true 
 ---
 
