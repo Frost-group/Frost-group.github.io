@@ -15,10 +15,13 @@ estimate of carbon cost.
 ARCHER2 doesn't seem to state it's power consumption anywhere, but a smaller
 [128'000 core CRAY EX based on the same architecture is listed on the Top500
 as 637.95 kW](https://www.top500.org/system/179900/). This makes ARCHER2
-about 3.7 MW for its 750'080 cores. Perhaps this is why it isn't recorded
-anywhere - that is a pretty power hungry beast! (ARCHER was 1.2 MW by
-comparison.) Though this is quite a modest 5 W per EPYC core, or 640 W per
-compute node. Both these figures seem sensible. 
+about 3.7 MW for its 750'080 cores. Perhaps this is why the power consumption
+isn't noted anywhere anywhere - that is a pretty power hungry beast!  Though
+this is quite a modest 5 W per EPYC core, or 640 W per compute node. Both these
+figures seem sensible. 
+
+(ARCHER was 1.2 MW by comparison, and I calculated each 24-core Intel compute
+nodes used 250 W.) 
 
 The new ComputeUnit (CU) metric for job costing is simply a node hour. So one
 CU is 0.64 kWh of electricity, or enough to make 25 cups (250 ml) of Tea. 
