@@ -20,7 +20,10 @@ Haonan is investigating the use of graph neural networks in predicting structure
 
 ## Beatriz Vina Bausa (Physics MSci two-term project, Oct 2021-April 2022)
 
-Beatriz is investigating the polaron behaviour of a set of polar tetrahedral semiconductors, and in halide perovskite semiconductors, by characterising the materials with plane-wave density functional theory in VASP, and then using group codes which implement the Feynman variational approach. 
+Beatriz is investigating the polaron behaviour of a set of polar tetrahedral
+semiconductors, and in halide perovskite semiconductors, by characterising the
+materials with plane-wave density functional theory in VASP, and then using
+group codes which implement the Feynman variational approach. 
 
 ## Keerati 'PK' Keeratikarn (PhD April 2021--)
 
@@ -32,7 +35,7 @@ much larger systems to be treated.
 
 ## Hanbo Yang (PhD Oct 2020--)
 
-@@left ![Hanbo Yang, mugshot.](/assets/img/hanbo.jpg) @@
+![Hanbo Yang, mugshot.](/assets/img/hanbo.jpg)
 
 Hanbo is working on molecular materials for the up-conversion of light. 
 By absorbing two lower energy photons (red), combining the energy and emitting
@@ -58,15 +61,11 @@ Twitter: [@Hanbo_315](https://mobile.twitter.com/Hanbo_315)
 Hanbo's 3-minute video summary from September 2021:
 [![Hanbo's 3-minute video summary in September 2021.](https://img.youtube.com/vi/jeBMAw4imCQ/0.jpg)](https://www.youtube.com/watch?v=jeBMAw4imCQ)
 
-
-~~
 <div style="clear: both"></div>
-~~
-
 
 ## Bradley A.A. Martin (PhD Oct 2020--)
 
-@@left ![Bradley A.A. Martin.](/assets/img/brad_250px.jpg) @@
+![Bradley A.A. Martin.](/assets/img/brad_250px.jpg)
 
 Brad comes from a theoretical physics background. His first project is in
 extending the Feynman variational path-integral approach to the polaron
@@ -89,9 +88,7 @@ Brad's 3-minute video summary from September 2021:
 Brad is funded by an EPSRC Doctoral Training Award.
 
 
-~~
 <div style="clear: both"></div>
-~~
 
 ## Jack Coker (PhD March 2020--)
 
@@ -103,7 +100,7 @@ The project which I'm working on with Nick is in using empirical molecular dynam
 
 ## Jarvist Moore Frost (PhD Imperial 2012)
 
-@@left ![Photo of Jarvist wearing a red jumper.](/assets/img/JarvistMooreFrost_Feb2017_SonyA1_RedJumper_Square_250px.jpg) @@
+![Photo of Jarvist wearing a red jumper.](/assets/img/JarvistMooreFrost_Feb2017_SonyA1_RedJumper_Square_250px.jpg)
 
 Jarvist approached computational physics back to front, in that after being introduced to LOGO in the reception class of his primary school on a creaky old BBC Micro, he learnt a lot of his higher physics by reference to how it could be expressed on a computer. His MSci project (2005--2006) was under Prof. Geoff New on modelling 'fractal light' as generating in a highly magnifying laser cavity with a polygonal aperture; a [youtube video](https://www.youtube.com/watch?v=-dJPs1nPTjM) [Hi-Def, but without annotation](https://www.youtube.com/watch?v=AOYN9YmXaHo), working(ish) [code](https://github.com/jarvist/FractalLight) and [MSci report](https://arxiv.org/abs/physics/0612027) are available. 
 His PhD (2007--2012) was supervised by Prof. Jenny Nelson FRS and Prof. Donal Bradley FRS CBE, and supported by BP Solar and an EPSRC DTP award. 

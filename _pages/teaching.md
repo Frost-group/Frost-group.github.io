@@ -10,9 +10,11 @@ nav: true
 
 ### Physical machine learning
 
-Before the fairly specific Python + PyTorch based delivery of content for the
-ML MRes described below, I was developing some more general scientific machine
-learning materials with Julia + Pluto notebooks.
+I've been slowly developing general scientific machine
+learning materials with Julia + Pluto notebooks. 
+(These were originally developed in Sept 2021 for the MLBD MRes below, but
+a more modest Python + Pytorch neural network based set of lessons were
+delivered.)
 
 <https://jarvist.github.io/2021-PhysicsMachineLearningPracticum/02_GaussianProcessPotentialEnergySurface.html>
 
