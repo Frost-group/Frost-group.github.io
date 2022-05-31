@@ -14,6 +14,8 @@ This is where we bake the physics in the machine learning model, such as by
 using a tight-binding ansatz, while empirically twiddling the parameters to get
 good agreement with some higher quality reference. 
 
+<div style="clear: both"></div>
+
 ## Haonan Chen (Machine Learning and Big Data MRes, Jan-Sept 2022)
 
 Haonan is investigating the use of graph neural networks in predicting structure-property relationships in small molecule drug design.
@@ -36,6 +38,7 @@ much larger systems to be treated.
 ## Hanbo Yang (PhD Oct 2020--)
 
 ![Hanbo Yang, mugshot.](/assets/img/hanbo.jpg)
+{:class="img-fluid rounded z-depth-1" style="float: left; margin: 0rem 2rem 2rem 2rem"}
 
 Hanbo is working on molecular materials for the up-conversion of light. 
 By absorbing two lower energy photons (red), combining the energy and emitting
@@ -66,6 +69,7 @@ Hanbo's 3-minute video summary from September 2021:
 ## Bradley A.A. Martin (PhD Oct 2020--)
 
 ![Bradley A.A. Martin.](/assets/img/brad_250px.jpg)
+{:class="img-fluid rounded z-depth-1" style="float: left; margin: 0rem 2rem 2rem 2rem"}
 
 Brad comes from a theoretical physics background. His first project is in
 extending the Feynman variational path-integral approach to the polaron
@@ -81,6 +85,9 @@ With it you have a fully predictive model of charge-carrier mobility, with no
 empirical parameters. 
 
 Twitter: [@Neutrino155](https://mobile.twitter.com/Neutrino155)
+
+<div style="clear: both"></div>
+
 
 Brad's 3-minute video summary from September 2021:
 [![Brad's 3-minute video summary in September 2021.](https://img.youtube.com/vi/kITVNewwaZw/0.jpg)](https://www.youtube.com/watch?v=kITVNewwaZw)
