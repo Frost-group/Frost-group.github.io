@@ -5,26 +5,29 @@ title: contact
 nav: true 
 ---
 
-# contact
-
 ## office
 
-Huxley 1004
+Huxley 1004, Imperial College London, South Kensington campus
 
 ## electronic mail 
 
 <jarvist.frost@imperial.ac.uk>
 
-## Large files
+## large files
 
-Up to 2 GB
+(Up to 2 GB! Any larger we can ssh.)
+
 <https://fileexchange.ic.ac.uk/>
 
 ## postal
 
 > The Blackett Laboratory, 
+>
 > Department of Physics, 
+>
 > Imperial College London, 
+>
 > London
+>
 > SW7 2BB, U.K
 
