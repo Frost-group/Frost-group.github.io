@@ -7,7 +7,7 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>Blackett Laboratory</p>
+    <p>Molecular Sciences Research Hub (MSRH)</p>
     <p>Imperial College London, UK</p>
 
 news: true  # includes a list of news items
@@ -16,8 +16,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 We are an experimental / computational / theoretical research group based in
-Experimental Solid State (EXSS) in the Department of Physics at Imperial
-College London. 
+the Department of Chemistry at Imperial College London. 
 
 Our aim is to combine experiment and theory to develop new functional
 materials. 
