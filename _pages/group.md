@@ -7,6 +7,28 @@ nav: true
 
 # Current Frost group members
 
+## Shirui Wang (Nanomaterials MRes 2022)
+
+"Computational insights into emerging chalcogenide perovskite photovoltaics"
+- supervised with [Alex Ganose](https://utf.github.io/).
+
+## Li Zhenghan (SEM-MRes 2022)
+
+"Simulating charge transfer and recombination at an upconverting organic
+semiconductor interface".
+
+## Alexandre Cherrier & Alexandre Bec (BSc Physics two-term project October 2022--)
+
+Polarons and band tails in semiconductors.
+
+## YC Wong and Logan Filipovich (MSci Physics June 2022--)
+
+Path integral Monte-Carlo (PIMC) for the Polaron problem.
+
+## Xiaoyi Yang and Daryl Y Lee Kai Yuen (MSci Physics June 2022--)
+
+Diagrammatic Monte-Carlo (DiagMC) for the Polaron problem.
+
 ## Lucius Liu (PhD March 2022--)
 
 Lucius' main project is in fitting quantum mechanical surrogate models. 
@@ -15,17 +37,6 @@ using a tight-binding ansatz, while empirically twiddling the parameters to get
 good agreement with some higher quality reference. 
 
 <div style="clear: both"></div>
-
-## Haonan Chen (Machine Learning and Big Data MRes, Jan-Sept 2022)
-
-Haonan is investigating the use of graph neural networks in predicting structure-property relationships in small molecule drug design.
-
-## Beatriz Vina Bausa (Physics MSci two-term project, Oct 2021-April 2022)
-
-Beatriz is investigating the polaron behaviour of a set of polar tetrahedral
-semiconductors, and in halide perovskite semiconductors, by characterising the
-materials with plane-wave density functional theory in VASP, and then using
-group codes which implement the Feynman variational approach. 
 
 ## Keerati 'PK' Keeratikarn (PhD April 2021--)
 
@@ -121,6 +132,18 @@ Jarv is a strong proponent of open-science, open-source, and open-access.
 Outside academics Jarvist mainly looks after T1 (born Nov 2018) and T2 (born Nov 2020).. He still goes cycling occasionally, and used to spend a lot of his time [caving](https://www.union.ic.ac.uk/rcc/caving/old/archive.php), [diving](https://youtu.be/MqqWyQF0gAg?t=636) and sailing. Jarv was hit by lightning at around 8:20 PM on 12th August 2017 and did not die.
 
 # Previous Frost group members
+
+## Haonan Chen (Machine Learning and Big Data MRes, Jan-Sept 2022)
+
+Haonan is investigating the use of graph neural networks in predicting structure-property relationships in small molecule drug design.
+
+## Beatriz Vina Bausa (Physics MSci two-term project, Oct 2021-April 2022)
+
+Beatriz is investigating the polaron behaviour of a set of polar tetrahedral
+semiconductors, and in halide perovskite semiconductors, by characterising the
+materials with plane-wave density functional theory in VASP, and then using
+group codes which implement the Feynman variational approach. 
+
 
 ## Yiqiu Zhang & Yanlin 'Philip' Chen (MSci Project 2020--2021)
 
