@@ -7,6 +7,9 @@ nav: true
 
 ## office
 
+601F Molecular Science Research Hub (MSRH), Imperial College London, White City
+campus
+
 Huxley 1004, Imperial College London, South Kensington campus
 
 ## electronic mail 
@@ -21,9 +24,7 @@ Huxley 1004, Imperial College London, South Kensington campus
 
 ## postal
 
-> The Blackett Laboratory, 
->
-> Department of Physics, 
+> Department of Chemistry, 
 >
 > Imperial College London, 
 >
