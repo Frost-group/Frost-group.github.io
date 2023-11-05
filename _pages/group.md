@@ -7,6 +7,12 @@ nav: true
 
 # Current Frost group members
 
+## Pranay Venkatesh (Visiting Graduate Researcher)
+
+Non-adiabatic dynamics of polaron and excitons in organic materials using real-time path integral methods developed by [Makri and co-workers](http://makri.scs.illinois.edu/research/path-integral-methods/quantum-classical-path-integral-qcpi/)
+
+Twitter : [@chemicalfiend8](https://mobile.twitter.com/chemicalfiend8) 
+
 ## Shirui Wang (Nanomaterials MRes 2022)
 
 "Computational insights into emerging chalcogenide perovskite photovoltaics"
