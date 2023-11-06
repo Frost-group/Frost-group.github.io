@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://frost-group.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://frost-group.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-11-06T21:12:38+00:00</updated><id>https://frost-group.github.io/feed.xml</id><title type="html">Frost research group</title><subtitle>Website of the Frost research group at Imperial College London.  
+</subtitle><entry><title type="html">Carbon cost of computing on ARCHER2</title><link href="https://frost-group.github.io/blog/2022/ARCHER2-Carbon-Cost/" rel="alternate" type="text/html" title="Carbon cost of computing on ARCHER2" /><published>2022-05-27T07:59:00+00:00</published><updated>2022-05-27T07:59:00+00:00</updated><id>https://frost-group.github.io/blog/2022/ARCHER2-Carbon-Cost</id><content type="html" xml:base="https://frost-group.github.io/blog/2022/ARCHER2-Carbon-Cost/"><![CDATA[<p>With the new <a href="https://www.archer2.ac.uk/">ARCHER2</a> national high performance
+computing facility in the UK, I thought it was time to update my old
+<a href="https://jarvist.github.io/post/2017-06-18-carbon-cost-of-high-performance-computing/">https://jarvist.github.io/post/2017-06-18-carbon-cost-of-high-performance-computing/</a>
+estimate of carbon cost.</p>
+
+<p>ARCHER2 doesn’t seem to state it’s power consumption anywhere, but a smaller
+<a href="https://www.top500.org/system/179900/">128’000 core CRAY EX based on the same architecture is listed on the Top500
+as 637.95 kW</a>. This makes ARCHER2
+about 3.7 MW for its 750’080 cores. Perhaps this is why the power consumption
+isn’t noted anywhere anywhere - that is a pretty power hungry beast!  Though
+this is quite a modest 5 W per EPYC core, or 640 W per compute node. Both these
+figures seem sensible.</p>
+
+<p>(ARCHER was 1.2 MW by comparison, and I calculated each 24-core Intel compute
+nodes used 250 W.)</p>
+
+<p>The new ComputeUnit (CU) metric for job costing is simply a node hour. So one
+CU is 0.64 kWh of electricity, or enough to make 25 cups (250 ml) of Tea.</p>
+
+<p>Our 6 month time allocation as a relatively junior computational group (via
+the MCC consortium) was 5000 CU, which consumed 3.2 MWh of electricity.
+(Another way to think of our allocation is that it’s almost exactly 1 node for
+the full 6 months, a 1/5860 share of the whole machine!) 
+The UK carbon intensity has been falling (thanks to all those new renewables),
+but is still around 0.233 kg of CO2e per kWh of electricity. 
+So our compute time was responsible for about 750 kg of CO2e emissions, roughly
+equivalent to a round trip flight to Boston to present the data at the Fall MRS
+conference.</p>
+
+<p>I need to patch the <em>checkScript</em> command with the extra 1 CU = 0.15 kg CO2e
+metric!</p>
+
+<p>Any improved estimates or corrections gratefully received; this blog post is
+very much back of the envelope.</p>
+
+<p>Jarvist Moore Frost</p>]]></content><author><name></name></author><category term="backofenvelope" /><summary type="html"><![CDATA[Are hybrid functionals or flying to conferences worse for the climate crisis?]]></summary></entry></feed>
