@@ -1,7 +1,7 @@
 ---
 layout: page 
 permalink: /group/
-title: group
+title: Group
 nav: true 
 ---
 
@@ -12,28 +12,6 @@ nav: true
 Non-adiabatic dynamics of polaron and excitons in organic materials using real-time path integral methods developed by [Makri and co-workers](http://makri.scs.illinois.edu/research/path-integral-methods/quantum-classical-path-integral-qcpi/)
 
 Twitter : [@chemicalfiend8](https://mobile.twitter.com/chemicalfiend8) 
-
-## Shirui Wang (Nanomaterials MRes 2022)
-
-"Computational insights into emerging chalcogenide perovskite photovoltaics"
-- supervised with [Alex Ganose](https://utf.github.io/).
-
-## Li Zhenghan (SEM-MRes 2022)
-
-"Simulating charge transfer and recombination at an upconverting organic
-semiconductor interface".
-
-## Alexandre Cherrier & Alexandre Bec (BSc Physics two-term project October 2022--)
-
-Polarons and band tails in semiconductors.
-
-## YC Wong and Logan Filipovich (MSci Physics June 2022--)
-
-Path integral Monte-Carlo (PIMC) for the Polaron problem.
-
-## Xiaoyi Yang and Daryl Y Lee Kai Yuen (MSci Physics June 2022--)
-
-Diagrammatic Monte-Carlo (DiagMC) for the Polaron problem.
 
 ## Lucius Liu (PhD March 2022--)
 
@@ -118,10 +96,6 @@ Brad is funded by an EPSRC Doctoral Training Award.
 
 Jack's project is in pushing the development of charge-carrier simulations in the hopping regime. This is most relevant for disordered organic materials, where the charges are localised as small polarons and move (relatively slowly!) in a series of thermally activated 'hops'.
 
-## Nicholas Siemmons (PhD Oct 2018--)
-
-The project which I'm working on with Nick is in using empirical molecular dynamics to understand the 'polymer battery'. 
-
 ## Jarvist Moore Frost (PhD Imperial 2012)
 
 ![Photo of Jarvist wearing a red jumper.](/assets/img/JarvistMooreFrost_Feb2017_SonyA1_RedJumper_Square_250px.jpg)
@@ -137,7 +111,34 @@ Jarv is a strong proponent of open-science, open-source, and open-access.
 
 Outside academics Jarvist mainly looks after T1 (born Nov 2018) and T2 (born Nov 2020).. He still goes cycling occasionally, and used to spend a lot of his time [caving](https://www.union.ic.ac.uk/rcc/caving/old/archive.php), [diving](https://youtu.be/MqqWyQF0gAg?t=636) and sailing. Jarv was hit by lightning at around 8:20 PM on 12th August 2017 and did not die.
 
-# Previous Frost group members
+# Alumni (ex members)
+
+## Nicholas Siemmons (PhD Oct 2018--2023)
+
+The project which I'm working on with Nick is in using empirical molecular dynamics to understand the 'polymer battery'. 
+
+## Shirui Wang (Nanomaterials MRes 2022)
+
+"Computational insights into emerging chalcogenide perovskite photovoltaics"
+- supervised with [Alex Ganose](https://utf.github.io/).
+
+## Li Zhenghan (SEM-MRes 2022)
+
+"Simulating charge transfer and recombination at an upconverting organic
+semiconductor interface".
+
+## Alexandre Cherrier & Alexandre Bec (BSc Physics two-term project October 2022--)
+
+Polarons and band tails in semiconductors.
+
+## YC Wong and Logan Filipovich (MSci Physics June 2022--)
+
+Path integral Monte-Carlo (PIMC) for the Polaron problem.
+
+## Xiaoyi Yang and Daryl Y Lee Kai Yuen (MSci Physics June 2022--)
+
+Diagrammatic Monte-Carlo (DiagMC) for the Polaron problem.
+
 
 ## Haonan Chen (Machine Learning and Big Data MRes, Jan-Sept 2022)
 

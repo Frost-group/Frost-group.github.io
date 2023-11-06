@@ -1,28 +1,28 @@
 ---
 layout: page 
 permalink: /contact/
-title: contact
+title: Contact
 nav: true 
 ---
 
-## office
+## Office
 
 601F Molecular Science Research Hub (MSRH), Imperial College London, White City
 campus
 
 Huxley 1004, Imperial College London, South Kensington campus
 
-## electronic mail 
+## Electronic mail 
 
 <jarvist.frost@imperial.ac.uk>
 
-## large files
+## Large files
 
-(Up to 2 GB! Any larger we can ssh.)
+(Up to 2 GB! Any larger we can ssh / rsync / fill a station wagon with tapes.)
 
 <https://fileexchange.ic.ac.uk/>
 
-## postal
+## Postal
 
 > Department of Chemistry, 
 >
