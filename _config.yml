@@ -114,7 +114,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-  Find my Imperial email address! 
+  Email probably best!
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -134,9 +134,10 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Frost group research blog # blog_name will be displayed in your blog page
-blog_description: mutterings from tea time
+blog_name: Frost-blog  # your blog must have a name for it to show up in the nav bar
+blog_description: whiteboard scribblings from the Frost group
 permalink: /blog/:year/:title/
+
 lsi: false # produce an index for related posts
 
 # Pagination
