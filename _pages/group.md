@@ -7,11 +7,67 @@ nav: true
 
 # Current Frost group members
 
-## Pranay Venkatesh (Visiting Graduate Researcher)
+## Tom Ward (PhD Oct 2024--)
+Tom is working on modelling molecular upconvering materials, intially
+concentrating on excited state calculations. 
+Tom rowed down river from the Isis tributory to old father Thames, and has
+discovered his active space similarly expanding. 
+<div style="clear: both"></div>
 
-Non-adiabatic dynamics of polaron and excitons in organic materials using real-time path integral methods developed by [Makri and co-workers](http://makri.scs.illinois.edu/research/path-integral-methods/quantum-classical-path-integral-qcpi/)
+## Ryo Kuno (PhD Oct 2024--)
+Ryo is working on nuclear quantum effects, as applied to ion transport in
+battery materials (particular proton batteries). 
+<div style="clear: both"></div>
 
-Twitter : [@chemicalfiend8](https://mobile.twitter.com/chemicalfiend8) 
+## Emily Wentworth (PhD Sept 2024--)
+Emily is working on modelling molecular upconverting materials, initially
+concentrating on molecular dynamics modelling of non-fullerene acceptors. 
+<div style="clear: both"></div>
+
+## Joseph Harries (MSci Oct 2024--June 2025)
+Joe is working on simulating charge-transport in chiral radicals, in
+a collaboration with synthetic chemist Jochen Brandt at QMUL. 
+<div style="clear: both"></div>
+
+## Kamil Bieniasz (MSci Oct 2024--June 2025)
+Kam is working on antibacterial peptides, intially calculating free energy of
+membrane insertion with coarse-grain molecular dynamics. 
+<div style="clear: both"></div>
+
+
+## Igor Gonteri (Visiting student Oct 2024--June 2025)
+Igor is visiting from EPFL, and working on antibacterial peptide design with
+machine learning methods, initially with LSTM based peptide language models. 
+<div style="clear: both"></div>
+
+
+## Lysandre Rolland (MSci Oct 2024--June 2025)
+Lysandre is working on calculating Urbach tails (a measurement of disorder) in
+inorganic semiconductors. 
+<div style="clear: both"></div>
+
+## Tim Rein (PhD Oct 2024--)
+Tim is working on machine-learning enhanced methods of extracting data from
+experiment, starting with Bayesian fitting of semi-classical optical models. 
+<div style="clear: both"></div>
+
+## Isabelle 'Izzy' Creed (PDRA June 2024--)
+Izzy is joining us funded on an EPSRC New Investigator Grant to research the
+non-fulerene-acceptor based molecular upconverting devices. 
+<div style="clear: both"></div>
+
+## Ingvars Vitenburgs (PhD Jan 2024--)
+Ingvars is working on Quantum Monte Carlo methods, initially applied to the
+polaron problem. 
+
+<div style="clear: both"></div>
+
+## Yande Fu (PhD Oct 2023--)
+Yande is extending the Feynman Variational Approximation for the polaron
+problem to more accurate model real materials, intially looking at anharmonic
+phonons. 
+
+<div style="clear: both"></div>
 
 ## Lucius Liu (PhD March 2022--)
 
@@ -61,6 +117,52 @@ Hanbo's 3-minute video summary from September 2021:
 
 <div style="clear: both"></div>
 
+## Jarvist Moore Frost (PhD Imperial 2012)
+
+![Photo of Jarvist wearing a red jumper.](/assets/img/JarvistMooreFrost_Feb2017_SonyA1_RedJumper_Square_250px.jpg)
+
+Jarvist approached computational physics back to front, in that after being introduced to LOGO in the reception class of his primary school on a creaky old BBC Micro, he learnt a lot of his higher physics by reference to how it could be expressed on a computer. His MSci project (2005--2006) was under Prof. Geoff New on modelling 'fractal light' as generating in a highly magnifying laser cavity with a polygonal aperture; a [youtube video](https://www.youtube.com/watch?v=-dJPs1nPTjM) [Hi-Def, but without annotation](https://www.youtube.com/watch?v=AOYN9YmXaHo), working(ish) [code](https://github.com/jarvist/FractalLight) and [MSci report](https://arxiv.org/abs/physics/0612027) are available. 
+His PhD (2007--2012) was supervised by Prof. Jenny Nelson FRS and Prof. Donal Bradley FRS CBE, and supported by BP Solar and an EPSRC DTP award. 
+
+Jarv got into research on photovoltaics for the environmental reason of trying to avert climate change. This is not because he particularly cares about polar bears or coral reefs, but because he likes a world in which the climate is stable enough to grow enough food to eat. 
+He is deeply cynical about how useful any of his research actually is, and is quite generally fearful that much renewable energy research is effectively a form of greenwashing, allowing society to further procrastinate from making the necessary changes and investment in the hope of some future scientific-technological 'deus ex machina' to allow us to continue leading our energy profligate lives without trashing the planet. 
+However, as he is even worse at, and more cynical of, politics, he continues to apply himself to this long-odds technological bet. 
+
+Jarv is a strong proponent of open-science, open-source, and open-access.
+
+Outside academics Jarvist mainly looks after T1 (born Nov 2018) and T2 (born Nov 2020).. He still goes cycling occasionally, and used to spend a lot of his time [caving](https://www.union.ic.ac.uk/rcc/caving/old/archive.php), [diving](https://youtu.be/MqqWyQF0gAg?t=636) and sailing. Jarv was hit by lightning at around 8:20 PM on 12th August 2017 and did not die.
+<div style="clear: both"></div>
+
+
+# Alumni (ex members)
+
+## Anastasia Kryachkova (UROP 2024)
+Anastasia is working on how quantum-nuclear effects change the (free) energy of
+ion transport, in a simplified Buckyball model of a covalent organic framework. 
+<div style="clear: both"></div>
+
+
+## Christine Zhao (UROP 2024)
+Christine is working on machine learning tight-binding models. 
+<div style="clear: both"></div>
+
+## Achille Chauvet (SEM MRes 2023-2024)
+Achille is working on the NFA:Rubrene molecular upconvering material,
+undertaking cryogenic single-photon-counting measurements, and Electron
+paramagnetic resonance, to understand the origin of the triplets in device
+operation. 
+<div style="clear: both"></div>
+
+## 'JJ' (Joseph-John) Acton (SEM MRes 2023-2024)
+JJ (mainly supervised by Alex Ganose) is modelling chalcogenide perovskites
+with plane-wave density functional theory methods (VASP). 
+<div style="clear: both"></div>
+
+## Chenyu Wu (Nanomaterials MRes 2023-2024)
+Chenyu is modelling the NFA:Rubrene molecular junction, with semi-empirical
+tight-binding approaches. 
+<div style="clear: both"></div>
+
 ## Bradley A.A. Martin (PhD Oct 2020--)
 
 ![Bradley A.A. Martin.](/assets/img/brad_250px.jpg)
@@ -96,22 +198,13 @@ Brad is funded by an EPSRC Doctoral Training Award.
 
 Jack's project is in pushing the development of charge-carrier simulations in the hopping regime. This is most relevant for disordered organic materials, where the charges are localised as small polarons and move (relatively slowly!) in a series of thermally activated 'hops'.
 
-## Jarvist Moore Frost (PhD Imperial 2012)
 
-![Photo of Jarvist wearing a red jumper.](/assets/img/JarvistMooreFrost_Feb2017_SonyA1_RedJumper_Square_250px.jpg)
+## Pranay Venkatesh (Visiting Graduate Researcher 2023-2024)
 
-Jarvist approached computational physics back to front, in that after being introduced to LOGO in the reception class of his primary school on a creaky old BBC Micro, he learnt a lot of his higher physics by reference to how it could be expressed on a computer. His MSci project (2005--2006) was under Prof. Geoff New on modelling 'fractal light' as generating in a highly magnifying laser cavity with a polygonal aperture; a [youtube video](https://www.youtube.com/watch?v=-dJPs1nPTjM) [Hi-Def, but without annotation](https://www.youtube.com/watch?v=AOYN9YmXaHo), working(ish) [code](https://github.com/jarvist/FractalLight) and [MSci report](https://arxiv.org/abs/physics/0612027) are available. 
-His PhD (2007--2012) was supervised by Prof. Jenny Nelson FRS and Prof. Donal Bradley FRS CBE, and supported by BP Solar and an EPSRC DTP award. 
+Non-adiabatic dynamics of polaron and excitons in organic materials using real-time path integral methods developed by [Makri and co-workers](http://makri.scs.illinois.edu/research/path-integral-methods/quantum-classical-path-integral-qcpi/)
 
-Jarv got into research on photovoltaics for the environmental reason of trying to avert climate change. This is not because he particularly cares about polar bears or coral reefs, but because he likes a world in which the climate is stable enough to grow enough food to eat. 
-He is deeply cynical about how useful any of his research actually is, and is quite generally fearful that much renewable energy research is effectively a form of greenwashing, allowing society to further procrastinate from making the necessary changes and investment in the hope of some future scientific-technological 'deus ex machina' to allow us to continue leading our energy profligate lives without trashing the planet. 
-However, as he is even worse at, and more cynical of, politics, he continues to apply himself to this long-odds technological bet. 
+Twitter : [@chemicalfiend8](https://mobile.twitter.com/chemicalfiend8) 
 
-Jarv is a strong proponent of open-science, open-source, and open-access.
-
-Outside academics Jarvist mainly looks after T1 (born Nov 2018) and T2 (born Nov 2020).. He still goes cycling occasionally, and used to spend a lot of his time [caving](https://www.union.ic.ac.uk/rcc/caving/old/archive.php), [diving](https://youtu.be/MqqWyQF0gAg?t=636) and sailing. Jarv was hit by lightning at around 8:20 PM on 12th August 2017 and did not die.
-
-# Alumni (ex members)
 
 ## Nicholas Siemmons (PhD Oct 2018--2023)
 
