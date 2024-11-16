@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-We are an experimental / computational / theoretical research group based in
+We are an experimental:computational:theoretical (about 20:30:30 ratio) research group based in
 the Department of Chemistry at Imperial College London. 
 
 Our aim is to combine experiment and theory to develop new functional
