@@ -84,7 +84,9 @@ Outside academics Jarvist mainly looks after T1 (born Nov 2018) and T2 (born Nov
 
 ---
 
-# PhD students graduated
+# Alumni
+
+# Gruadted PhD students
 
 ## Keerati 'PK' Keeratikarn (PhD April 2021--2025)
 
@@ -154,7 +156,7 @@ Twitter: [@Neutrino155](https://mobile.twitter.com/Neutrino155)
 Brad's 3-minute video summary from September 2021:
 [![Brad's 3-minute video summary in September 2021.](https://img.youtube.com/vi/kITVNewwaZw/0.jpg)](https://www.youtube.com/watch?v=kITVNewwaZw)
 
-Brad is funded by an EPSRC Doctoral Training Award.
+Brad was funded by an EPSRC Doctoral Training Award.
 
 
 <div style="clear: both"></div>
@@ -163,7 +165,8 @@ Brad is funded by an EPSRC Doctoral Training Award.
 
 ## Jack Coker (PhD March 2020--2024)
 
-Jack's project is in pushing the development of charge-carrier simulations in the hopping regime. This is most relevant for disordered organic materials, where the charges are localised as small polarons and move (relatively slowly!) in a series of thermally activated 'hops'.
+Jack's project was in pushing the development of charge-carrier simulations in the small-polaron regime. 
+This is most relevant for disordered organic materials, where the charges are localised as small polarons and move (relatively slowly!) in a series of thermally activated 'hops'.
 
 ---
 
@@ -203,16 +206,6 @@ inorganic semiconductors.
 <div style="clear: both"></div>
 
 ---
-
-## Yande Fu (PhD candidate Oct 2023--2025, withdrawn)
-Yande was working on extending the Feynman Variational Approximation for the
-polaron problem to more accurate model real materials, intially looking at
-anharmonic phonons. 
-
-<div style="clear: both"></div>
-
----
-
 
 
 ## Anastasia Kryachkova (UROP 2024)
@@ -259,6 +252,15 @@ Twitter : [@chemicalfiend8](https://mobile.twitter.com/chemicalfiend8)
 
 ---
 
+## Yande Fu (PhD candidate Oct 2023--2025, withdrawn)
+Yande was working on extending the Feynman Variational Approximation for the
+polaron problem to more accurate model real materials, intially looking at
+anharmonic phonons. 
+
+<div style="clear: both"></div>
+
+---
+
 ## Shirui Wang (Nanomaterials MRes 2022)
 
 "Computational insights into emerging chalcogenide perovskite photovoltaics"
@@ -273,19 +275,19 @@ semiconductor interface".
 
 ---
 
-## Alexandre Cherrier & Alexandre Bec (BSc Physics two-term project October 2022--)
+## Alexandre Cherrier & Alexandre Bec (BSc Physics two-term project October 2022--March 2023)
 
 Polarons and band tails in semiconductors.
 
 ---
 
-## YC Wong and Logan Filipovich (MSci Physics June 2022--)
+## YC Wong and Logan Filipovich (MSci Physics June 2022--June 2023)
 
 Path integral Monte-Carlo (PIMC) for the Polaron problem.
 
 ---
 
-## Xiaoyi Yang and Daryl Y Lee Kai Yuen (MSci Physics June 2022--)
+## Xiaoyi Yang and Daryl Y Lee Kai Yuen (MSci Physics June 2022--June 2023)
 
 Diagrammatic Monte-Carlo (DiagMC) for the Polaron problem.
 
